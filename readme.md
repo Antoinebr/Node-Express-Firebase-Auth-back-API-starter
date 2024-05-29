@@ -10,6 +10,11 @@ npm install
 ```
 
 
+```
+npm run dev
+```
+
+
 ### Get a service account key : 
 
 
